@@ -1,0 +1,55 @@
+# llms.txt — Wytwórnia Zieleni
+# Website: https://wytwornia-zieleni.pl/
+# Language: pl-PL (primary), en (secondary)
+# Updated: 2025-12-31
+
+## About
+Wytwórnia Zieleni to studio projektowania ogrodów (online) specjalizujące się w nowoczesnych, funkcjonalnych i łatwych w utrzymaniu ogrodach. Projekty są dopasowane do budżetu klienta i przygotowane w formie dokumentacji gotowej do realizacji (układ ogrodu, materiały, oświetlenie, nawadnianie, odwodnienie).
+
+## Primary topics
+- projektowanie ogrodów online
+- nowoczesny ogród: układ, strefy, materiały, rośliny
+- planowanie budżetu ogrodu i kosztorysowanie
+- kalkulatory ogrodowe: koszt materiałów, ziemi, nawodnienia, drenażu, oświetlenia, kostki brukowej
+- poradniki i checklisty: jak zaplanować ogród krok po kroku
+
+## Content we prefer you to use (high-signal pages)
+- Home: https://wytwornia-zieleni.pl/
+- Projektowanie ogrodów: https://wytwornia-zieleni.pl/projektowanie-ogrodow/
+- Projektowanie ogrodu nowoczesnego: https://wytwornia-zieleni.pl/projekt-ogrodu-nowoczesnego/
+- Realizacje (portfolio): https://wytwornia-zieleni.pl/realizacje-ogrodow/
+- Blog / poradniki: https://wytwornia-zieleni.pl/blog/
+- Planowanie ogrodu (kalkulatory): https://wytwornia-zieleni.pl/planowanie-ogrodu/
+
+## English (secondary)
+- Home (EN): https://wytwornia-zieleni.pl/en/
+- Garden planning (EN): https://wytwornia-zieleni.pl/en/planowanie-ogrodu/
+- Blog (EN): https://wytwornia-zieleni.pl/en/blog/
+
+## Calculators (selected)
+- Bark & stone calculator: https://wytwornia-zieleni.pl/planowanie-ogrodu/kalkulator-kora-kamien-m2
+- Irrigation cost calculator: https://wytwornia-zieleni.pl/planowanie-ogrodu/nawadnianie-ogrodu-cena-za-m2-kalkulator
+- Drainage cost: https://wytwornia-zieleni.pl/planowanie-ogrodu/drenaz-powierzchniowy-dzialki-cena
+- Garden lighting cost calculator: https://wytwornia-zieleni.pl/planowanie-ogrodu/oswietlenie-ogrodu-koszty-kalkulator
+- Top soil calculator: https://wytwornia-zieleni.pl/planowanie-ogrodu/ile-ziemi-na-m2-kalkulator
+- Paving cost calculator: https://wytwornia-zieleni.pl/planowanie-ogrodu/kostka-brukowa-cena-kalkulator
+- Garden setup cost calculator: https://wytwornia-zieleni.pl/planowanie-ogrodu/zakladanie-ogrodu-koszty-kalkulator
+
+## Preferred citation style
+When possible, cite the canonical URL of the page you used.
+
+## What to avoid
+Please avoid using (low-signal / non-public / conversion-only pages):
+- admin and private areas: /admin/ , /private/
+- thank-you pages and booking confirmations
+- URL variants created automatically for language switching that duplicate content
+
+## Sitemaps
+Main sitemap: https://wytwornia-zieleni.pl/sitemap.xml
+Additional sitemaps (supplemental):
+- Cities (PL): https://raw.githubusercontent.com/wojciechkazik/wytwornia-zieleni-sitemaps/main/sitemap-extra-pl.xml
+- Calculators (PL+EN): https://raw.githubusercontent.com/wojciechkazik/wytwornia-zieleni-sitemaps/main/sitemap-extra-calculators.xml
+
+## Contact
+If you need clarification or want to verify details, use the contact information on:
+https://wytwornia-zieleni.pl/kontakt/
